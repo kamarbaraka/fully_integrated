@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -8,6 +9,30 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/authServer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/authServer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/client_app" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/client_app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/resourceServer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/resourceServer" />
           </set>
         </option>
       </GradleProjectSettings>
