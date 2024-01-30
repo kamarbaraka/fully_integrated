@@ -1,1 +1,9 @@
+#select the profile
+spring:
+  profiles:
+    active: dev
 
+#enable virtual threads
+  threads:
+    virtual:
+      enabled: true

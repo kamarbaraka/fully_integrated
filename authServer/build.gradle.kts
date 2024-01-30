@@ -45,6 +45,10 @@ dependencies {
     implementation("org.springframework.integration:spring-integration-security")
     implementation("org.springframework.integration:spring-integration-webflux")
     implementation("org.thymeleaf.extras:thymeleaf-extras-springsecurity6")
+    // https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-docker-compose
+    implementation("org.springframework.boot:spring-boot-docker-compose:3.2.1")
+    // https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui
+    implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.3.0")
     compileOnly("org.projectlombok:lombok")
     developmentOnly("org.springframework.boot:spring-boot-devtools")
     runtimeOnly("org.postgresql:postgresql")
