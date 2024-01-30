@@ -47,3 +47,11 @@ dauthServer/src/main/java/org/kamar/authserver/user_management/repositories/User
 OauthServer/src/main/java/org/kamar/authserver/user_management/dtos/UserDto.java,0\4\04f86eca02c3a1425a591a4f8b6fa8b917eb1061
 E
 authServer/.gitignore,a\0\a0fb47755fc96a17ecf443458903fc7e0d270a90
+ã
+[authServer/src/main/java/org/kamar/authserver/user_management/entities/UserAuthorities.java,0\6\069f496635fb2715c84a011b25990ee7e28ce32d
+ê
+`authServer/src/main/java/org/kamar/authserver/user_management/entities/UserEntityRepository.java,f\c\fc676b7bd9b987d7d78408f4e07c7d8c292fc200
+â
+YauthServer/src/main/java/org/kamar/authserver/user_management/entities/UserEntityDto.java,a\e\aece0869e1fe287c7b6b41116dceab3800b38cff
+Ö
+UauthServer/src/main/java/org/kamar/authserver/user_management/dtos/UserEntityDto.java,7\9\79b239674c1e0829ada23506b5e542ddd9628b86
